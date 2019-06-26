@@ -1,0 +1,198 @@
+Md. N urul Islam
+. . . Great Free Fonts
+Sr. Software Engineer at Relisource Technologies
+Date of Birth : 29th November 1989
+Mobile : +880-1775-994477
+E-mail : nuibb3§@grnaiLC,om
+Github :https;llgithub.,c,om/,n,ui,bb
+LinkedIn : https://www.1inkedin.com/in/nuibbhasan
+HackerRank: https: //www.hackerrankcom/nuibbhasan
+SKILLS
+0 Mobile : Swift, Objective -C, Titanium, Flutter, XCode, Titanium Studio
+0 Data Science : Python, R, Tensorflow, Keras, Jupyter Notebook, Colab, R Studio, Tableau
+o Chatbots : Amazon Skill Kit, Dialogue Flow, Google Home, Alexa
+0 Web : Java, JavaScript, Python, PyCharm, Intelli] IDEA, VS Code
+0 Databases: SQL, SQLite
+0 Computer Vision : OpenCV
+0 Version control: Git, SVN
+o DevOps : Docker, Jenkins
+0 Agile tools : Trello, Pivotal Tracker
+0 Others : MS Office (Doc, Power point, Visio), Google Docs, Google Sheets
+EX P E RI E N C E
+Relisource Technologies, Dhaka — Sr. Software Engineer
+May, 2019 - Present
+Robotic Process Automation
+AI Engineer
+0 Implementing RPA for scraping data from documents and pdf and generating multiple reports using
+UIPath
+o Combining scraping data to a Chatbot application for automating real time conversation
+o Robotic automation on getting individuals ID by scanning their national ID Card and proving
+corresponding data matching that ID to the user
+ML Prototypes
+ML Engineer
+0 Image classification, Object detection and localization both in Image and Video using YOLO
+0 Creating custom dataset by leveling image annotation using LabelBox & Zillin
+0 Understanding and implementing Convolutional Neural Model using YOLO with COCO dataset
+0 Tools: Python, Tensorﬂow, YOLO, COCO
+Datasoft Systems Bangladesh Limited, Dhaka — Sr. Software Engineer
+August, 2015 - May, 2019
+Mobio AR SDK
+R&D Leado Mobio AR is an augmented reality software development kit (SDK) for mobile devices that enables the
+creation of augmented reality applications. It uses computer vision technology to recognize and track
+objects in real time through the camera of a mobile device.
+0 Language : C++, Objective-C, OpenCV framework
+0 Contributions :
+0 Finding out best keypoint detector and descriptor extractor (ORB)
+0 Feature matching with KNN matcher and Hamming Distance algorithm
+0 Finding out homography to relates the transformation or perspective correction
+o R&D on camera POSE estimation by simultaneous localization & mapping (SLAM)
+Virtual Central Controller
+Senior iOS Developer
+0 The central zone wise/groupwise/individual indoor and outdoor IOT based AC controlling system
+through mobile application for johnson Controls-Hitachi (Japan).
+0 Language : Swift
+0 Contributions :
+0 Architectural design with Viper design pattern & POP
+o Multi-storyboard adaptive UI design with Autolayout & Trait class
+0 Restful web API integration & consuming jSON data with Codable & Object Mapper
+0 Bug fixing, code optimization & managing version control (Git) of the project
+0 Collaborating teammates, followed Agile methodologies with sprint plan.
+0 Support Objective—C and Swift interoperability for integrating 3rd party libraries.
+0 Implemented Core data framework, NSCache and NSCoding protocol for caching data
+0 UI testing and Unit testing with Swinject, Quick and Nimble frameworks
+o Documenting source code with Doxygen and HeaderDoc tools.
+Nissan Driver’s Guide
+Senior iOS Developer
+0 The Nissan Driver’s Guide is an application based on Augmented Reality Technology that recognizes
+vehicle content through the camera of your smartphone. It will help you to learn and understand more
+about your vehicle. (Nissan worldwide)
+0 Language : Objective-C
+0 Contributions :
+o Involved from requirement analysis to app store deployment
+o Implemented MVC, MVP & MWM architectural design pattern
+0 Multi-storyboard UI design with Autolayout, Nib and Coding
+o Restful web API integration with AFNetworking and consuming jSON data
+0 Integrated augmented reality SDK like Metaio and Vuforia
+0 Bug fixing, code optimization & managing version control (Git)
+o Implemented Push notification with Google Firebase analytics
+0 Conduct team meeting, resolve technical issues and meeting deadline
+0 Code review and analysis with Sonarqube to detect bug and vulnerabilities
+0 Unit testing and UI testing using XCTest
+https://itunes.apple.com/us[app/nissan—drivers ~guide/id912672032
+Infinity Driver’s Guide
+Senior iOS Developer
+0 The Infinity Driver’s Guide is an application based on Augmented Reality Technology that recognizes
+vehicle content through the camera of your smartphone. It can also render 3D model after recognizing
+objects with camera. Developed five distinct apps for Europe, Middle East, Hongkong, China and
+Worldwide region with distinct features.
+0 Language : Objective-C
+0 Contributions :
+o Involved from requirement analysis to app store deployment
+o Implemented MVC, MVP and other behavioral design pattern
+0 Multi-storyboard UI design with Autolayout, Nib and Coding
+o Restful web API integration with NSURLSession and consuming jSON data
+0 Bridging augmented reality SDK Vuforia and Apple’s ARKit for object detection
+0 Bug fixing, code optimization & managing version control
+0 Leading team & overseas their work for quality and guideline compliance.
+0 Code review and analysis with Sonarqube to detect bug and vulnerabilities.
+0 Unit testing and UI testing using XCTest
+mp5:l/itunes.amlecom/nl/ama/infiniti—drivers—guide/id1067800246
+ICH Cloud Cost Forecasting
+Data Scientist
+o Accomplishment : Reduced the yearly cloud cost from $2 to 25 Cent, saved 87% cloud cost per gateway
+0 Language & tools : R, MS Excel
+0 Contributions :
+o Performed exploratory data analysis on structured data to forecast the JCH cloud cost per
+gateway0 Used Excel Sheet for reporting & visualizing the insights
+0 Proposed solutions to improve system efficiencies and reducing total expenses
+Sentiment Analysis
+Data Scientist
+o Accomplishment : Sentiment analysis with recurrent neural network
+0 Language & tools : Python, Tensorﬂow
+0 Contributions :
+0 Exploring how word embeddings are used for sentiment analysis using neural network
+0 Applying and implementing word vector embeddings to language modeling
+0 Performing and implementing sequence classification using RNNs
+0 Used back propagation and Naive Bayes algorithm
+Predicting buyer characteristics
+Data Scientist
+o Accomplishment : Find out active buyers of a website, analysed their characteristics and provide
+offerings based on their buying history and product correlation
+0 Language & tools : R, Tableau
+0 Contributions :
+o Performed exploratory data analysis on structured data to predict the userbehavior
+0 Finding out correlation of their buying products with time series and classifying customers
+based on their buying capabilities.
+0 Proposed solutions to improve sells and earning more revenue
+Chatbots
+AI Engineer
+0 Accomplishment: Making some automated conversational chatbot
+0 Language & tools : Dialogue Flow, Amazon Skill Kit, Alexa, Google Home
+0 Contributions :
+o Developed chatbot for hospital receptionist, flight booking, tour guide and so on.
+0 Used Google’ s Dialogue Flow framework with Firebase
+0 Used Amazon Skill Kit for Alexa by writing command in AWS lambda
+o R&D on natural language processing for making chatbot in Bengali
+Nascenia Limited, Dhaka — iOS Developer
+August, 2013 -July, 2015
+Horsecount
+iOS Developer
+0 Horsecount is a management system and a market & meeting place for horse-keepers as well as an online
+community of peoples who share a passion for horses. This app is currently out of store but can get the
+info from here.
+0 Language : Titanium (Cross platform)
+0 Contributions :
+0 Used to with both Appcelerator Alloy Framework and Traditional Titanium
+0 User Interface design for both iOS & Android.
+0 Restful API integration using HttpClientRequest
+o Implemented Facebook, Twitter SDK
+0 Implemented real time messaging with Pubnub
+o Implemented push notification with Firebase
+o Interacting with client, answering his enquiries and effectively handling the complaints.
+https:llitunes.apple.coml,uslapplhorsecountlid911963831
+Smyril Line
+iOS Developer
+0 This app is useful for guests onboarding Norro'na on the crossing between Denmark, Faroe Islands and
+Iceland. Points of interest and services onboard are displayed. Guests can also follow the trip on the Ship
+Tracker.
+0 Language : Objective-C
+0 Contributions :
+0 Track ships using Core Location Framework with Mapkit
+0 Shown ship tracking overlay path along with Atlantic Ocean with Annotation
+o Implemented Bluetooth low energy with iBeacon technology
+https:flittines.apple.com/us/app/smyril~line/id1063668691 (In maintenance)
+Bhoganti (iOS)
+iOS DeveloperBhoganti app allows you to submit your complaints against a brand, organization, or store of any kind.
+You can compare brands and view comments submitted by other users. The app was developed in Swift.
+mtpimines.applecomluslappmhogami/idg 6,0951%
+Bdipo (iOS)
+iOS Developer
+This is the hub for IPO services in Bangladesh. You can generate IPO application form automatically,
+search result & get IPO related news from this app. The app was developed in Objective-C.
+hittpszllitunes.applecom/us[app/bdipo/id981919422
+E D U CATI O N
+.:. BSc (Hons) in Computer Science & Engineering, 2008 — 2012
+University of Dhaka, Bangladesh
+.:. Higher Secondary Certificate (HSC), 2006
+Yasin College, Faridpur, Dhaka, Bangladesh
+.:. Secondary School Certificate (SSC), 2004
+Police Lines High School, Faridpur, Dhaka, Bangladesh
+TRAINING & CERTIFICATION
+.:. Certified by Bangladesh Hi-tech Park on Data Science with R.
+.:. Certified by “simplileam.com” by completing their online course on Data Science.
+.:. Trained to implement Machine Learning algorithms efficiently by doing various online courses from
+Coursera and Pluralsight.
+.:. Completed a training on advanced “ Statistics and Mathematics ” for Machine Learning.
+.:. Completed the online course “Docker and Kubernetes. The Complete Guide” from Udemy.
+.:. IELTS training on British Council
+PERSONAL IN FORMATION
+0:. Full Name : Md. Nurul Islam
+.:. Nick Name : Nuibb
+.:. Father's Name : Md. Gulzar Azam
+.:. Mother's Name : Saleha Pervin
+.:. Present Address : Dhaka Housing, Shyamoli, Dhaka, Bangladesh
+.:. Permanent Address :Asiruddin road, West Khawaspur, Faridpur Sadar, Faridpur
+.:. Religion: Islam
+.:. Nationality : Bangladeshi by Birth
+.:. Language : Fluent in speaking and writing English
+.:. Hobbies & Interests : Programming, Football Watching & Filmmaking.
